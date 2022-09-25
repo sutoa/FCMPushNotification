@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388827893401",
+    "project_id": "fcmpushjava",
+    "storage_bucket": "fcmpushjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388827893401:android:34ffc23cb452ddbe80f208",
+        "android_client_info": {
+          "package_name": "com.nextgen.fcmpushjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388827893401-8b6aalktngalsm2ivmfqgq1rc6o0vdrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Gt8zNd28b68Wn-HNoHxJU0-FMIYAPpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388827893401-8b6aalktngalsm2ivmfqgq1rc6o0vdrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
